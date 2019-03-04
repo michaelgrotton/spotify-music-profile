@@ -12,7 +12,7 @@ If you'd like to run this locally:
 
 ### Screenshots
 
-![screenshot 1](https://raw.githubusercontent.com/michaelgrotton/spotify-music-profile/master/screenshot1.png)
-![screenshot 1](https://raw.githubusercontent.com/michaelgrotton/spotify-music-profile/master/screenshot2.png)
-![screenshot 1](https://raw.githubusercontent.com/michaelgrotton/spotify-music-profile/master/screenshot3.png)
+![screenshot 1](https://raw.githubusercontent.com/michaelgrotton/spotify-music-profile/master/nowplaying.png)
+![screenshot 1](https://raw.githubusercontent.com/michaelgrotton/spotify-music-profile/master/table.png)
+![screenshot 1](https://raw.githubusercontent.com/michaelgrotton/spotify-music-profile/master/graph.png)
       
